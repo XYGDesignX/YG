@@ -1,1 +1,1 @@
-{"version":"3","download":"www.google.com"}
+{"version":"3","download":"https://www.google.com/"}
